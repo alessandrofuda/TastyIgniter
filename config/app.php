@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => 'http://localhost/',
+    'url' => 'http://localhost:8000',
 
     /*
     |--------------------------------------------------------------------------
@@ -104,7 +104,7 @@ return [
     |
     */
 
-    'key' => 'CHANGE!!!!!!!!!!!!!!!!!!!!!!!!!',
+    'key' => 'base64:SZ6oaaUnEebg4OqbJ3aCf+rKB8Jn4oRMuzY/+eZSyHU=',
 
     'cipher' => 'AES-256-CBC',
 
