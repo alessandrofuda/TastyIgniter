@@ -29,4 +29,7 @@ return [
     Igniter\Flame\Setting\SettingServiceProvider::class,
     Igniter\Flame\Html\UrlServiceProvider::class, // force https -- url policy
     Igniter\Flame\Validation\ValidationServiceProvider::class,
+
+    // Laravel Providers added (11_09_2020)
+    Laravel\Tinker\TinkerServiceProvider::class,
 ];
